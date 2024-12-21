@@ -1,0 +1,4 @@
+[2024-12-11 15:40:20] ERROR: MySQLServerException [1054]: Unknown column 'deleted_at' in 'where clause'
+[2024-12-11 15:40:44] ERROR: MySQLServerException [1054]: Unknown column 'deleted_at' in 'where clause'
+[2024-12-11 15:41:42] ERROR: MySQLServerException [1054]: Unknown column 'deleted_at' in 'where clause'
+[2024-12-11 15:45:18] ERROR: MySQLServerException [1054]: Unknown column 'deleted_at' in 'where clause'
